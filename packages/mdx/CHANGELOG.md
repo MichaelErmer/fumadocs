@@ -1,5 +1,12 @@
 # next-docs-mdx
 
+## 12.0.0
+
+### Patch Changes
+
+- Updated dependencies [69f20cb]
+  - @fumadocs/mdx-remote@1.2.0
+
 ## 11.4.1
 
 ### Patch Changes

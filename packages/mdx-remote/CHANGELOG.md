@@ -1,5 +1,11 @@
 # @fumadocs/mdx-remote
 
+## 1.2.0
+
+### Minor Changes
+
+- 69f20cb: Remove `content` property from the output of `compile`
+
 ## 1.1.3
 
 ### Patch Changes
